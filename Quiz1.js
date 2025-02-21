@@ -1,5 +1,5 @@
 function computeGrades(grades) {
-    const parsed = i;
+    const parsed = [];
     let passed = 0;
     let failed = 0;
 
